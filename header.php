@@ -1,7 +1,7 @@
 <div class="navbar-wrapper">
       <div class="container">
 
-        <nav class="navbar navbar-default navbar-fixed-top header">
+        <nav class="navbar navbar-inverse navbar-fixed-top header">
           <div class="container">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -11,13 +11,17 @@
                 <span class="icon-bar"></span>
               </button>
               <a class="navbar-brand" href="#">
-              	<img src="assets/demo.png" alt="logo" height="50" width="120">
+              	<img src="assets/demo.png" alt="logo" >
               </a>
             </div>
             <div id="navbar" class="navbar-collapse collapse mega-menu">
               <ul class="nav navbar-nav navbar-right ">
                 <li class=""><a href="/">Home</a></li>
-                <li class="dropdown mega-menu-fullwidth">
+                <li class=""><a href="/">About Us</a></li>
+                <li class=""><a href="/">Products</a></li>
+                <li class=""><a href="/">Solutions</a></li>
+                <li><a href="contact-us.php">Contact us</a></li>
+                <!-- <li class="dropdown mega-menu-fullwidth">
                   <a href="/" class="dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
                     <ul class="dropdown-menu" role="menu">
                         <li>
@@ -38,7 +42,7 @@
                                             <li><a href="/service.php#design">Website Hosting</a></li>
                                         </ul>
                                     </div>
-                                  </div><!-- end col-3 -->
+                                  </div>
                                   <div class="col-menu col-md-4 equal-height-in">                                     
                                     <div class="content">
                                       <ul class="menu-col list-unstyled equal-height-list">
@@ -49,7 +53,7 @@
                                           <li><a href="/service.php#ecommerce">Drupal Services</a></li>
                                       </ul>
                                     </div>
-                                  </div><!-- end col-3 -->
+                                  </div>
                                   <div class="col-menu col-md-3 equal-height-in">                                     
                                     <div class="content">
                                       <ul class="menu-col list-unstyled equal-height-list">
@@ -69,10 +73,10 @@
                                         <li><a href="/service.php#corporate">Business Logo Design</a></li>
                                       </ul>
                                     </div>
-                                  </div><!-- end col-3 -->
-                                </div><!-- end row -->
-                              </div><!-- end container -->
-                            </div><!-- end mega-menu-content -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
                         </li>
                     </ul>
                 </li>
@@ -86,8 +90,8 @@
                     <li><a href="#">Frontend</a></li>
                     <li><a href="#">Backend</a></li>
                   </ul>
-                </li>
-                <li><a href="contact-us.php">Contact us</a></li>
+                </li> -->
+                
               </ul>  
             </div>
           </div>
