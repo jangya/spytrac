@@ -2,16 +2,16 @@
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Cosytech</title>
+	<title>Spytrac</title>
 	<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/spytrac.css">
 	<!-- <link rel="stylesheet" type="text/css" href="assets/css/bootsnav.css"> -->
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="assets/css/overwrite.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/animate.css">
 </head>
-<body class="cosybody">
+<body class="spytrac">
 
     <?php include 'header.php'; ?>
      <!-- Carousel
@@ -201,7 +201,7 @@ Aim Higher to explore new horizons of technological innovations & create new qua
 </blockquote>
 <blockquote>
 MISSION : 
-Our mission is fully powered with innovative ideas & state-of-art technologies, to provide easy access to worldwide clientele & to promote business entities to tap new world of potential customers & improve their profit margins with timely interaction with clients & world recognized best services, aiming to capture all sectors of biz world.</p>
+Our mission is fully powered with innovative ideas & state-of-art technologies, to provide easy access to worldwide clientele & to promote business entities to tap new world of potential customers & improve their profit margins with timely interaction with clients & world recognized best services, aiming to capture all sectors of biz world.
 </blockquote>
 </div>
       </section>
