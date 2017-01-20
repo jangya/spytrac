@@ -1,5 +1,5 @@
-.navbar-brand{
-  padding:5px;
+.navbar .navbar-brand{
+  padding:5px !important;
 }
 .navbar-brand img{
   //height:80
