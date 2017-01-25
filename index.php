@@ -23,7 +23,7 @@
 			<div class="section-background">
 				<!-- IMAGE BACKGROUND -->
 				<div class="section-background-image parallax" data-stellar-ratio="0.4">
-					<img src="assets/img/home-bg.jpg" alt="">
+					<img src="assets/img/home-bg.jpg" alt="" style="opacity: 0.3;">
 				</div>
 			</div>
 			<div class="container">
@@ -52,13 +52,6 @@
 		<?php include 'footer.php';  ?>
 		<script src="assets/js/jquery.stellar.min.js"></script>
 		<script>
-			$.stellar({
-				responsive: true,
-				horizontalScrolling: false,
-				hideDistantElements: false,
-				verticalOffset: 0,
-				horizontalOffset: 0,
-			});
 		</script>
 	</div>
 </body>
