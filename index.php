@@ -50,6 +50,7 @@
 		<!-- Footer
 		==============================================-->
 		<?php include 'footer.php';  ?>
+		<script src="assets/js/jquery.stellar.min.js"></script>
 		<script>
 			$.stellar({
 				responsive: true,
