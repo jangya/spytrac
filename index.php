@@ -51,8 +51,8 @@
 		==============================================-->
 		<?php include 'footer.php';  ?>
 		<script src="assets/js/jquery.stellar.min.js"></script>
-		<script>
-		</script>
+		<script src="assets/js/spytrac.js"></script>
+		
 	</div>
 </body>
 </html>
