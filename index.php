@@ -22,7 +22,7 @@
 		<section id="home" class="home-section hero-layout-simple section section-dark">
 			<div class="section-background">
 				<!-- IMAGE BACKGROUND -->
-				<div class="section-background-image parallax" data-stellar-ratio="0.4" style="top: -0.6px;">
+				<div class="section-background-image parallax" data-stellar-ratio="0.4">
 					<img src="assets/img/home-bg.jpg" alt="">
 				</div>
 			</div>
@@ -50,6 +50,15 @@
 		<!-- Footer
 		==============================================-->
 		<?php include 'footer.php';  ?>
+		<script>
+			$.stellar({
+				responsive: true,
+				horizontalScrolling: false,
+				hideDistantElements: false,
+				verticalOffset: 0,
+				horizontalOffset: 0,
+			});
+		</script>
 	</div>
 </body>
 </html>
