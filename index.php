@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/spytrac.css">
 	<!-- <link rel="stylesheet" type="text/css" href="assets/css/bootsnav.css"> -->
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="assets/css/overwrite.css">
+<!-- 	<link rel="stylesheet" type="text/css" href="assets/css/overwrite.css"> -->
 	<link rel="stylesheet" type="text/css" href="assets/css/animate.css">
 </head>
 <body class="spytrac">
