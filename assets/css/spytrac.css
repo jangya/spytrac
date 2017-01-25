@@ -17,12 +17,31 @@ body{
 }
 /*Home
   ==============*/
+.home-section{
+    padding: 160px 0px;
+}
+/* SECTION BACKGROUND */
 .section-background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 0;
-    overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+	overflow: hidden;
+}
+.section-background-image {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.section-background-image img {
+	position: absolute;
+	min-width: 100%;
+	max-width: none;
+	min-height: 100%;
+	top: 0;
+	left: 0;
 }
