@@ -27,7 +27,7 @@ body{
     width: 100%;
     background-size: cover;
     background-position: 50% 50%;
-    color: #fff;
+    opacity: 0.7;
 }
 
 /* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
