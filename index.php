@@ -20,15 +20,15 @@
 		============================================== -->
 		<section id="home" class="home-section hero-layout-simple section section-dark">
 			<div class="section-background">
-				<div id="pic1" class="parallax" data-width="1024" data-height="768"></div>
+				<div id="pic1" class="parallax" data-width="1024" data-height="568"></div>
 			</div>
 			<div class="container">
 				<div class="hero-content">
 					<div class="hero-content-inner">
 						<div class="table-row row">
-							<div class="table-cell col-md-6">
+<!-- 							<div class="table-cell col-md-6">
 								<img src="assets/img/home-banner.png" alt="" width="500" height="510" data-animation="fadeInLeft" class="fadeInLeft animated done-animation">
-							</div>
+							</div> -->
 							<div class="table-cell col-md-6">
 								<div class="hero-heading fadeIn animated done-animation" data-animation="fadeIn">
 									<h1 class="hero-subtitle">Hi, Welcome to Spytrac</h1>
