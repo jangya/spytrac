@@ -31,11 +31,11 @@
 							</div>
 							<div class="table-cell col-md-6">
 								<div class="hero-heading fadeIn animated done-animation" data-animation="fadeIn">
-									<h1 class="hero-subtitle">Hi, Welcome to Drew</h1>
+									<h1 class="hero-subtitle">Hi, Welcome to Spytrac</h1>
 									<p class="hero-tagline">A robust Landing Page Template which solves all your landing page needs</p>
 								</div>
 								<p class="hero-buttons">
-									<a href="https://wrapbootstrap.com/theme/drew-all-in-one-marketing-landing-page-WB0350PTJ" class="btn btn-lg btn-primary">Buy This Template</a>
+									<a href="https://wrapbootstrap.com/theme/drew-all-in-one-marketing-landing-page-WB0350PTJ" class="btn btn-lg btn-primary">Buy Products</a>
 								</p>
 							</div>
 						</div>
