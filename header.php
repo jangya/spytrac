@@ -23,13 +23,13 @@
 
                         <li class="current"><a href="#hero" class="hidden">Top</a></li>
 
-                        <li class=""><a href="#about">About</a></li>
-                        <li><a href="#benefits">Benefits</a></li>
-                        <li><a href="#how-it-works">How it Works</a></li>
-                        <li><a href="#team">The Team</a></li>
-                        <li><a href="#pricing">Pricing</a></li>
+                        <li class=""><a href="#about">Home</a></li>
+                        <li><a href="#benefits">About Us</a></li>
+                        <li><a href="#how-it-works">Products</a></li>
+                        <li><a href="#team">Solutions</a></li>
+                        <li><a href="#pricing">Contact Us</a></li>
 
-                        <!-- DROPDOWN MENU -->
+                        <!-- DROPDOWN MENU 
                         <li class="dropdown dropdown-hover">
                               <a href="#" class="dropdown-toggle external" data-toggle="dropdown" role="button" aria-expanded="false">More <span class="caret"></span></a>
                               <ul class="dropdown-menu" role="menu">
@@ -39,10 +39,10 @@
                                     <li><a href="#faq" class="anchor-link external">Solutions</a></li>
                                     <li><a href="#maps" class="anchor-link external">Contact Us</a></li>
                               </ul>
-                        </li>
+                        </li>-->
 
-                        <!-- HEADER ACTION BUTTON -->
-                        <li class="header-action-button"><a href="#" class="btn btn-primary">Action Button</a></li>
+                        <!-- HEADER ACTION BUTTON 
+                        <li class="header-action-button"><a href="#" class="btn btn-primary">Action Button</a></li> -->
 
                   </ul>
 
