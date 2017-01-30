@@ -19,12 +19,9 @@
 		<div id="pic1" class="bg-holder" data-width="1024" data-height="768"></div>
 		<!-- Home and Intro
 		============================================== -->
-		<!--<section id="home" class="home-section hero-layout-simple section section-dark">
+		<section id="home" class="home-section hero-layout-simple section section-dark">
 			<div class="section-background">
-				<!-- IMAGE BACKGROUND 
-				<div class="section-background-image parallax" data-stellar-ratio="0.5">
-					<img src="assets/img/home-bg2.jpg" alt="" style="opacity: 0.3;">
-				</div>
+				<div id="pic1" class="parallax" data-width="1024" data-height="768"></div>
 			</div>
 			<div class="container">
 				<div class="hero-content">
@@ -46,7 +43,7 @@
 					</div>
 				</div>
 			</div>
-		</section>-->
+		</section>
 		<!-- Footer
 		==============================================-->
 		<?php include 'footer.php';  ?>
@@ -55,7 +52,7 @@
 		<script>
 			$(function() {
   
-			  $(".bg-holder").parallaxScroll({
+			  $(".parallax").parallaxScroll({
 			    friction: 0.5,
 			    direction: "vertical"
 			  });
