@@ -16,7 +16,6 @@
 		<!-- Header 
 		==============================================-->
 		<?php include 'header.php'; ?>
-		<div id="pic1" class="bg-holder" data-width="1024" data-height="768"></div>
 		<!-- Home and Intro
 		============================================== -->
 		<section id="home" class="home-section hero-layout-simple section section-dark">
@@ -51,7 +50,7 @@
 <!-- 		<script src="assets/js/spytrac.js"></script> -->
 		<script>
 			$(function() {
-  
+  			 $window = $( window );
 			  $(".parallax").parallaxScroll({
 			    friction: 0.5,
 			    direction: "vertical"
