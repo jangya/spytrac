@@ -349,6 +349,10 @@ body{
 .home-section{
     padding: 160px 0px;
 }
+.home-section img{
+    width:: 600px;
+    height: 450px;
+}
 .parallax {
     background-image: url("../img/home-bg2.jpg");
     height: 100%; 
