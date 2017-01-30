@@ -22,7 +22,7 @@
 		<section id="home" class="home-section hero-layout-simple section section-dark">
 			<div class="section-background">
 				<!-- IMAGE BACKGROUND -->
-				<div class="section-background-image parallax" data-stellar-background-ratio="0.5">
+				<div class="section-background-image parallax" data-stellar-ratio="0.5">
 					<img src="assets/img/home-bg2.jpg" alt="" style="opacity: 0.3;">
 				</div>
 			</div>
