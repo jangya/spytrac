@@ -29,7 +29,7 @@
 <!-- 							<div class="table-cell col-md-6">
 								<img src="assets/img/home-banner.png" alt="" width="500" height="510" data-animation="fadeInLeft" class="fadeInLeft animated done-animation">
 							</div> -->
-							<div class="table-cell col-md-6">
+							<div class="table-cell col-md-6 pull-right">
 								<div class="hero-heading fadeIn animated done-animation" data-animation="fadeIn">
 									<h1 class="hero-subtitle">Hi, Welcome to Spytrac</h1>
 									<p class="hero-tagline">A robust Landing Page Template which solves all your landing page needs</p>
