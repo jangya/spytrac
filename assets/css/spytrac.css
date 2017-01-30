@@ -355,7 +355,7 @@ body{
     height: 450px;
 }
 .parallax {
-    background-image: url("../img/cctv_bg.jpg");
+    background-image: url("../img/bio.jpg");
     height: 100%; 
     width: 100%;
     background-size: cover;
