@@ -22,7 +22,7 @@ body{
     background-color:black;
 }
 .parallax {
-    background-image: url("assets/img/home-bg2.jpg");
+    background-image: url("../img/home-bg2.jpg");
     height: 100%; 
     width: 100%;
     background-size: cover;
