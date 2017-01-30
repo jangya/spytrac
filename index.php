@@ -56,7 +56,16 @@
 			    friction: 0.5,
 			    direction: "vertical"
 			  });
+			var toggleHeaderFloating = function() {
+			// Floating Header
+				if ( $window.scrollTop() > 80 ) {
+					$( '.header-section' ).addClass( 'floating' );
+				} else {
+					$( '.header-section' ).removeClass( 'floating' );
+				};
+			};
 
+			$window.on( 'scroll', toggleHeaderFloating );
 			});
 		</script>
 	</div>
