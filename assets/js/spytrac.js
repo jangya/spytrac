@@ -1,6 +1,7 @@
 
 	"use strict";
 	$( document ).on( 'ready', function() {
+		debugger;
 		console.log("Inside script");
 		var $window = $( window ),
 			$body = $( 'body' ),
