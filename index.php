@@ -62,7 +62,7 @@
 		<!-- Footer
 		==============================================-->
 		<?php include 'footer.php';  ?>
-		<script src="assets/js/jquery.parallax.js"></script>
+		<script src="assets/js/jquery.parallax-scroll.min.js"></script>
 <!-- 		<script src="assets/js/spytrac.js"></script> -->
 		<script>
 			$(function() {
