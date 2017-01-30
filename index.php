@@ -50,8 +50,8 @@
 		<!-- Footer
 		==============================================-->
 		<?php include 'footer.php';  ?>
-		<script src="assets/js/jquery.stellar.min.js"></script>
-		<script src="assets/js/spytrac.js"></script>
+		<script src="assets/js/jquery.parallax.js"></script>
+<!-- 		<script src="assets/js/spytrac.js"></script> -->
 		
 	</div>
 </body>
