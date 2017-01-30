@@ -348,13 +348,14 @@ body{
   ==============*/
 .home-section{
     padding: 160px 0px;
+    color: #ececec;
 }
 .home-section img{
     width:: 600px;
     height: 450px;
 }
 .parallax {
-    background-image: url("../img/home-bg2.jpg");
+    background-image: url("../img/cctv_bg.jpg");
     height: 100%; 
     width: 100%;
     background-size: cover;
