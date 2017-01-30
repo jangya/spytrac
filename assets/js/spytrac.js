@@ -1,8 +1,8 @@
 ;(function( $ ) {
 	"use strict";
-
+	debugger;
 	$( document ).on( 'ready', function() {
-
+	console.log("Inside script");
 		var $window = $( window ),
 			$body = $( 'body' ),
 			$document = $( document ),
@@ -123,6 +123,7 @@
 		 * =======================================
 		 */
 		$window.on( 'resize', function() {
+			console.log("Inside RESIZE");
 			resizeBackground();
 		});
 
