@@ -348,7 +348,6 @@ body{
   ==============*/
 .home-section{
     padding: 160px 0px;
-    background-color:black;
 }
 .parallax {
     background-image: url("../img/home-bg2.jpg");
@@ -374,5 +373,6 @@ body{
 	height: 100%;
 	z-index: 0;
 	overflow: hidden;
+	background-color:black;
 }
 
